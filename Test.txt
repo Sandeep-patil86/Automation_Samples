@@ -1,4 +1,5 @@
 apiKey: '2df980e7ffc95c19552790f7cad32666'
-awsaccessid:"Test key"
-AwsSecretKey:"nbkchskdhc"
-Password:"Test2020"
+
+apiKey: '2df980e7ffc95c19552790f7cad32666'
+apiKey: '2df980e7ffc95c19552790f7cad32666'
+apiKey: '2df980e7ffc95c19552790f7cad32666'apiKey: '2df980e7ffc95c19552790f7cad32666'
