@@ -1,0 +1,4 @@
+API KEY : "akhjsdhaskdhkashdkas"
+AWS_ACCESSKEY: "Test key"
+AWS SECRET KEY :"nbkchskdhc"
+Password: "Test2020"
